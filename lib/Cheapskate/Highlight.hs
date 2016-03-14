@@ -1,0 +1,4 @@
+module Cheapskate.Highlight
+(
+)
+where
