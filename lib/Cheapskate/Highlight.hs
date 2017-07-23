@@ -1,6 +1,4 @@
-{-# LANGUAGE
-RecordWildCards
-  #-}
+{-# LANGUAGE RecordWildCards #-}
 
 
 module Cheapskate.Highlight
